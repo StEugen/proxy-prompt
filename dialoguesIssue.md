@@ -55,6 +55,7 @@ This will calculate the square root of 9 using the sqrt function defined earlier
 <br>
 <br>
 <pre>
+## Second dialog with chatGPT
 ME: https://github.com/StEugen/proxy-prompt/blob/main/webdevprompts/README.md
 Use this link to learn rules, write a python program according to these rules which will find square root from any number 
 CHATGPT: Here's a Python program that finds the square root of a given number using the Babylonian method:
