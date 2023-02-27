@@ -23,7 +23,7 @@ write a python program according to these rules to find square root from any num
 
 ### Second method
 paste a link to behaviour declaration file, use basic prompt and write your request.
-basic prompt: <code>Use this link to learn rules from {name-of-behavior-file}, {your-request}
+basic prompt: <code>Use this link to learn rules from {name-of-behavior-file}, {your-request} </code>
 <pre>
 https://github.com/StEugen/proxy-prompt/blob/main/webdevprompts/README.md
 Use this link to learn rules from README.md, write a python program according to these rules which will find square root from any number 
