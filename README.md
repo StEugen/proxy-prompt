@@ -2,7 +2,7 @@
 
 This repository is about some prompts for chatGPT and maybe others AI solutions.
 
-Behaviour declaration files for different conditions are here. They are used to declare some behaviour rules to achieve better results when writing prompts to chatGPT. 
+Behavior declaration files for different conditions are here. They are used to declare some behaviour rules to achieve better results when writing prompts to chatGPT. 
 
 There are three ways to declare this rules to chatGPT.
 
