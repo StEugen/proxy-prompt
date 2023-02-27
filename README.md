@@ -22,10 +22,11 @@ write a python program according to these rules to find square root from any num
 </pre>
 
 ### Second method
-paste a link to behaviour declaration file and write your request.
+paste a link to behaviour declaration file, use basic prompt and write your request.
+basic prompt: <code>Use this link to learn rules from {name-of-behavior-file}, {your-request}
 <pre>
 https://github.com/StEugen/proxy-prompt/blob/main/webdevprompts/README.md
-Use this link to learn rules, write a python program according to these rules which will find square root from any number 
+Use this link to learn rules from README.md, write a python program according to these rules which will find square root from any number 
 </pre>
 However, i should say one more thing, at first take i've made with this method, chatGPT generated wrong response, however when i used prompt provided below, chatGPT fixed his answer and in next new conversation, it applyed rules from the begining. Here is the link to both this dialogues:<br> 
 <a href='./dialogueIssue.md'>Link to dialogues</a><br>
